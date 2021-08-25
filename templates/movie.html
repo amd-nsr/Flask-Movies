@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+{% block title %}Movie{% endblock %}
+{% block content %}
+    <h1 class="title">Movie</h1>
+
+    <table class="table">
+      <tr>
+        <th>Title:</th>
+        <td>{{ movie.title }}</td>
+      </tr>
+      {% if movie.year %}
+      <tr>
+        <th>Year:</th>
+        <td>{{ movie.year }}</td>
+      </tr>
+      {% endif %}
+    </table>
+
+    {% if current_user.is_authenticated %}
+    <div class="field is-grouped">
+      <div class="control">
+        <a class="button is-primary is-outlined is-small"
+           href="{{ request.path }}/edit">Edit</a>
+      </div>
+    </div>
+    {% endif %}
+{% endblock %}
