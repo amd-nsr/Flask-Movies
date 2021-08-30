@@ -1,12 +1,14 @@
 # Flask-Movies
 A Web Application developed using the Python Flask framework for managing movies collections 
 
-![Home](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/6.JPG)
+![Home](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/home.JPG)
 
-![Login](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/1.JPG)
+![Login](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/login.JPG)
 
-![List All](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/2.JPG)
+![List All](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/list.JPG)
 
-![Edit Movie](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/4.JPG)
+![Add Movie](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/add.JPG)
 
-![Register](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/5.JPG)
+![Edit Movie](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/edit.JPG)
+
+![Register](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/regis.JPG)
