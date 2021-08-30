@@ -7,6 +7,6 @@ A Web Application developed using the Python Flask framework for managing movies
 
 ![List All](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/2.JPG)
 
-![Edit Movie](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/3.JPG)
+![Edit Movie](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/4.JPG)
 
 ![Register](https://github.com/b-e-d-o/Flask-Movies/blob/master/ProjectDescriptionImages/5.JPG)
